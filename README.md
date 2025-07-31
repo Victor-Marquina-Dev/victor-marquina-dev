@@ -3,11 +3,8 @@
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Victor Marquina</h2>
 
 
-
+# 💼 Hey there! I'm Victor Marquina
 ### 👨🏻‍💻 &nbsp;About Me
-
-# 💼 Victor Marquina
-
 Developer with experience in digital solutions, passionate about technology and continuous improvement.
 
 ## 📫 Contact

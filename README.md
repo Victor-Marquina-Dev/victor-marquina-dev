@@ -6,10 +6,14 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🔍 &nbsp;I’m excited to kickstart my career as a software engineer. \
-🌱 &nbsp;Currently, I'm working on multiple projects to refine my skills and gain hands-on experience.\
-⚡ &nbsp;I’m an **expert in full-stack web development**, with extensive experience in both **frontend** and **backend**. I have a passion for building robust and scalable applications using modern technologies. I strive to create clean, maintainable code and deliver high-quality results.\
-💬&nbsp; Feel free to ask me about:
+## About Me
+
+🔍  I’m a Full Stack Developer with 3 years of experience in building web and mobile applications using technologies like React, JavaScript, NodeJS, and Angular.  
+🌱  Currently, I'm working on multiple projects to refine my skills and gain hands-on experience.  
+⚡  I specialize in full-stack web development, with solid experience on both frontend and backend. I’m passionate about creating robust, scalable, and maintainable applications using modern technologies.  
+💬  Feel free to ask me about anything related to web development or check out my portfolio: [https://victor-marquina.vercel.app](https://victor-marquina.vercel.app)
+
+&nbsp; Feel free to ask me about:
 | **Frontend Development** | **Backend Development** |
 |--------------------------|-------------------------|
 | As a frontend developer, I specialize in crafting visually appealing and responsive user interfaces. I ensure that every design is intuitive, smooth, and optimized for performance. | On the backend side, I am skilled at creating RESTful APIs, managing databases, and ensuring security and scalability in server-side applications. |

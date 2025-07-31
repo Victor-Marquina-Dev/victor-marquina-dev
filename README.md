@@ -27,6 +27,16 @@
 ![AWS](https://img.shields.io/badge/aws-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)&nbsp;
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)&nbsp;
 
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/victor-marquina">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=victor-marquina&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/victor-marquina">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=victor-marquina&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
 
 
 ### 🤝🏻 &nbsp;Connect with Me

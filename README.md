@@ -21,7 +21,7 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/victor-marquina">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=victor-marquina&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
@@ -33,7 +33,7 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
+<p align="left">
 <a href="[https://www.linkedin.com/in/ask2001/](https://www.linkedin.com/in/victor-marquina-dev/)">
   <img src="https://img.shields.io/badge/-Victor%20Marquina%20Mora-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
 </a>

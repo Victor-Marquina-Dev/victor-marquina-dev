@@ -6,12 +6,16 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-## About Me
+# 💼 Victor Marquina
 
-🔍  I’m a Full Stack Developer with 3 years of experience in building web and mobile applications using technologies like React, JavaScript, NodeJS, and Angular.  
-🌱  Currently, I'm working on multiple projects to refine my skills and gain hands-on experience.  
-⚡  I specialize in full-stack web development, with solid experience on both frontend and backend. I’m passionate about creating robust, scalable, and maintainable applications using modern technologies.  
-💬  Feel free to ask me about anything related to web development or check out my portfolio: [https://victor-marquina.vercel.app](https://victor-marquina.vercel.app)
+Developer with experience in digital solutions, passionate about technology and continuous improvement.
+
+## 📫 Contact
+
+- 📧 Email: [victor.marquina30@gmail.com](mailto:victor.marquina30@gmail.com)
+- 📱 WhatsApp: [934553034](https://wa.me/51934553034)
+- 🌐 Portfolio: [https://victor-marquina.vercel.app](https://victor-marquina.vercel.app)
+
 
 &nbsp; Feel free to ask me about:
 | **Frontend Development** | **Backend Development** |
